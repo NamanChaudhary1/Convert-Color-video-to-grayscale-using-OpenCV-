@@ -1,1 +1,1 @@
-# Convert-Color-video-to-grayscale-using-OpenCV-
+# Convert-Color-video-to-grayscale-using-OpenCV
